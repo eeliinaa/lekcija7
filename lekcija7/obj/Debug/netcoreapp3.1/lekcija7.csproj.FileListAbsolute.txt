@@ -1,0 +1,13 @@
+F:\c#\l7\lekcija7\lekcija7\bin\Debug\netcoreapp3.1\lekcija7.exe
+F:\c#\l7\lekcija7\lekcija7\bin\Debug\netcoreapp3.1\lekcija7.deps.json
+F:\c#\l7\lekcija7\lekcija7\bin\Debug\netcoreapp3.1\lekcija7.runtimeconfig.json
+F:\c#\l7\lekcija7\lekcija7\bin\Debug\netcoreapp3.1\lekcija7.runtimeconfig.dev.json
+F:\c#\l7\lekcija7\lekcija7\bin\Debug\netcoreapp3.1\lekcija7.dll
+F:\c#\l7\lekcija7\lekcija7\bin\Debug\netcoreapp3.1\lekcija7.pdb
+F:\c#\l7\lekcija7\lekcija7\obj\Debug\netcoreapp3.1\lekcija7.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\l7\lekcija7\lekcija7\obj\Debug\netcoreapp3.1\lekcija7.AssemblyInfoInputs.cache
+F:\c#\l7\lekcija7\lekcija7\obj\Debug\netcoreapp3.1\lekcija7.AssemblyInfo.cs
+F:\c#\l7\lekcija7\lekcija7\obj\Debug\netcoreapp3.1\lekcija7.csproj.CoreCompileInputs.cache
+F:\c#\l7\lekcija7\lekcija7\obj\Debug\netcoreapp3.1\lekcija7.dll
+F:\c#\l7\lekcija7\lekcija7\obj\Debug\netcoreapp3.1\lekcija7.pdb
+F:\c#\l7\lekcija7\lekcija7\obj\Debug\netcoreapp3.1\lekcija7.genruntimeconfig.cache
